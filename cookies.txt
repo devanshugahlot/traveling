@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+htmldesigntemplates.com	TRUE	/	FALSE	1999999999	cf_ob_info	522:8684e3fc0ebc9975:FRA
+htmldesigntemplates.com	TRUE	/	FALSE	1999999999	cf_use_ob	0
+

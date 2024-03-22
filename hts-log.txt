@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 22 Mar 2024 14:11:01 at https://htmldesigntemplates.com/html/yatriiworld/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://htmldesigntemplates.com/html/yatriiworld/index.html -O1 "C:\Users\dell\Downloads\travel" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:12:21	Error: 	"Not Found" (404) at link https://htmldesigntemplates.com/html/yatriiworld/destination.html (from https://htmldesigntemplates.com/html/yatriiworld/index.html)
+14:12:22	Error: 	"Not Found" (404) at link https://htmldesigntemplates.com/html/yatriiworld/blog-home.html (from https://htmldesigntemplates.com/html/yatriiworld/index.html)
+14:12:26	Error: 	"Not Found" (404) at link https://htmldesigntemplates.com/html/yatriiworld/single-right.html (from https://htmldesigntemplates.com/html/yatriiworld/index.html)
+14:12:26	Error: 	"Not Found" (404) at link https://htmldesigntemplates.com/html/yatriiworld/about-us.html (from https://htmldesigntemplates.com/html/yatriiworld/index.html)
+14:12:26	Error: 	"Not Found" (404) at link https://htmldesigntemplates.com/html/yatriiworld/images/calltoaction3.jpg (from https://htmldesigntemplates.com/html/yatriiworld/css/style.css)
+14:12:26	Error: 	"Not Found" (404) at link https://htmldesigntemplates.com/html/yatriiworld/images/trending-bg.jpg (from https://htmldesigntemplates.com/html/yatriiworld/css/style.css)
+14:12:26	Error: 	"Not Found" (404) at link https://htmldesigntemplates.com/html/yatriiworld/tour-detail.html (from https://htmldesigntemplates.com/html/yatriiworld/index-1.html)
+14:12:26	Error: 	"Not Found" (404) at link https://htmldesigntemplates.com/html/yatriiworld/shop-detail.php (from https://htmldesigntemplates.com/html/yatriiworld/shop-grid1.html)
+14:12:26	Error: 	"Not Found" (404) at link https://htmldesigntemplates.com/html/yatriiworld/blog-single.php (from https://htmldesigntemplates.com/html/yatriiworld/blog-list.html)
+14:13:08	Error: 	"Not Found" (404) at link https://htmldesigntemplates.com/html/yatriiworld/listing-edit.html (from https://htmldesigntemplates.com/html/yatriiworld/dashboard-list.html)
+14:13:08	Error: 	"Not Found" (404) at link https://htmldesigntemplates.com/html/yatriiworld/fonts/fontawesome-webfont.eot?v=4.6.3 (from https://htmldesigntemplates.com/html/yatriiworld/css/icons.css)
+14:13:08	Error: 	"Not Found" (404) at link https://htmldesigntemplates.com/html/yatriiworld/fonts/fontawesome-webfont.eot? (from https://htmldesigntemplates.com/html/yatriiworld/css/icons.css)
+14:13:08	Error: 	"Not Found" (404) at link https://htmldesigntemplates.com/html/yatriiworld/fonts/fontawesome-webfont.woff2?v=4.6.3 (from https://htmldesigntemplates.com/html/yatriiworld/css/icons.css)
+14:13:08	Error: 	"Unknown error" (522) at link https://htmldesigntemplates.com/html/yatriiworld/fonts/fontawesome-webfont.woff?v=4.6.3 (from https://htmldesigntemplates.com/html/yatriiworld/css/icons.css)
+14:13:08	Error: 	"Unknown error" (522) at link https://htmldesigntemplates.com/html/yatriiworld/fonts/fontawesome-webfont.ttf?v=4.6.3 (from https://htmldesigntemplates.com/html/yatriiworld/css/icons.css)
+14:13:08	Error: 	"Not Found" (404) at link https://htmldesigntemplates.com/html/yatriiworld/fonts/fontawesome-webfont.svg?v=4.6.3 (from https://htmldesigntemplates.com/html/yatriiworld/css/icons.css)
+14:13:08	Error: 	"Not Found" (404) at link https://htmldesigntemplates.com/html/yatriiworld/fonts/simple-line-icons.eot?thkwh4 (from https://htmldesigntemplates.com/html/yatriiworld/css/icons.css)
+14:13:08	Error: 	"Unknown error" (522) at link https://htmldesigntemplates.com/html/yatriiworld/fonts/simple-line-icons.svg?thkwh4 (from https://htmldesigntemplates.com/html/yatriiworld/css/icons.css)
+14:13:08	Error: 	"Unknown error" (522) at link https://htmldesigntemplates.com/html/yatriiworld/fonts/iconsmind.eot? (from https://htmldesigntemplates.com/html/yatriiworld/css/icons.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 10 seconds : 296 links scanned, 276 files written (75626394 bytes overall) [68786204 bytes received at 529124 bytes/sec], 11007242 bytes transferred using HTTP compression in 126 files, ratio 29%, 27.0 requests per connection
+(19 errors, 0 warnings, 0 messages)
